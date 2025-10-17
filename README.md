@@ -103,7 +103,8 @@ npx firebase-tools deploy --only hosting
 ```
 
 Your app will be available at: `https://your-project-id.web.app`
-Current app is available at: `https://tracetasks-oleksii.web.app/`
+
+**Current live demo**: https://tracetasks-oleksii.web.app
 
 ## Project Structure
 
