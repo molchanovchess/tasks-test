@@ -3,6 +3,15 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Task management application with AI-powered descriptions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molchanovchess/tasks-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/molchanovchess/tasks-test/issues"
+  },
+  "homepage": "https://github.com/molchanovchess/tasks-test#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

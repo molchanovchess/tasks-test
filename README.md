@@ -2,6 +2,8 @@
 
 A modern task management application built with React, TypeScript, and Firebase. Features AI-powered task descriptions using Groq's free API.
 
+**Repository**: https://github.com/molchanovchess/tasks-test
+
 ## Features
 
 - 🔐 **Authentication**: Email/password and Google OAuth via Firebase Auth
@@ -31,7 +33,7 @@ A modern task management application built with React, TypeScript, and Firebase.
 ### 1. Clone and Install
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/molchanovchess/tasks-test.git
 cd tracetasks
 npm install
 ```
@@ -101,6 +103,7 @@ npx firebase-tools deploy --only hosting
 ```
 
 Your app will be available at: `https://your-project-id.web.app`
+Current app is available at: `https://tracetasks-oleksii.web.app/`
 
 ## Project Structure
 
